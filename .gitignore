@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.deps/
+.models/
+transcripts/
+*.mp4
+*.m4a
+*.m4v
+*.wav
+*.part
